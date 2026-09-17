@@ -1,4 +1,4 @@
-# TP1 - Installation Linux sur une VM - V0.3
+# TP1 - Installation Linux sur une VM - V0.4
 
 ## Groupe 
 
@@ -36,7 +36,7 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **D-A.** Choisissez un nom d'OS : `Linux - Debian 11.x` 
 
-![OS name choice](/Images/OS_Choice.jpg) 
+![OS name choice](Images/OS_Choice.jpg) 
 
 **D-B.** Nommez la machine virtuelle : `SparkyLinux-VosInitiales` 
 
